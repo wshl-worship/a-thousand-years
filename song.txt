@@ -1,0 +1,19 @@
+title=A Thousand Years
+subtitle=Christina Perri
+SeparateTimesig
+NoIndent
+1=Bb
+6/8
+tempo=46
+
+3. 3. | 3. 2. | 3. 3. | 3. 2. | 4. 4. | 4. 1. | 3. 3. | 2. q1 q7, q5, | \break
+\bar ".|:" 1. 1. | 1. s3 q2. q1 | 1. 1. | 1. q5 s4 q3. | \break 
+1. q5 s4 q3. | q2. q3. q7,. q7,. | 1. 1. | 1 s0 s1 s3 q2. q1 | \break
+1. 1. | 1. q5 s4 q3. | 1. q5 s4 q3. | q2. q3. q7,. q1. | \break
+6, - - | 6. 7.  | 1' - - | 7 - - | q3 s5 q3. q3 s5 q3. | \break
+6 q5 q2 1 | q3 s5 q3. q3 s5 q3. | 6 q5 q2 q1 s1 s2 | \break
+4 - q3 q6, ( | 6, ) s0 s6, s1 q2 q1 s2 | 4. 3. | \break
+2 - - | q3 s5 q3. q3 s5 q3. | \bar ":|." 5. 1'. | 7. 5. | \bar ":|." \break
+
+L: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Heart beats fast, co- lors and pro- mi- ses. How to be brave? How can I love when I'm af- raid to fall? But watch- ing you stand a- lone. All of my doubt sud- den- ly goes a- way some- how. One step clo- ser. I have died eve- ry day wait- ing for you. Dar- ling, don't be af- raid, I have loved you for a thou- sand years. I'll love you for a thou- sand more. I have died eve- ry day
+L: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Time stands still, beau- ty in all she is. I will be brave, I will not let a- ny- thing take a- way. What's stand- ing in front of me. E- ve- ry breath, e- ve- ry hour has come to this.
